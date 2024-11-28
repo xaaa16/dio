@@ -1,0 +1,5 @@
+biodata
+
+nama : Dio Rizky Andima
+kelas : 4IA25
+npm : 51421591
